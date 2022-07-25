@@ -144,7 +144,7 @@ var cnItems = {
     "Switch to an electric filter": "切换到电动过滤器",
     "Buy a cistern": "买一个水箱",
     "Getting a big water container should make collection easier.": "获得一个大水容器应该使收集更容易。",
-    "": "",
+    "Overcharge well": "过充井",
     "": "",
     "": "",
     "": "",
