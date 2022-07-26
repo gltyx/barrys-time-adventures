@@ -124,7 +124,7 @@ var cnItems = {
     "Endurance": "耐力",
     "Restart Here": "在这里重新开始",
     "I'm out of water. I should go help out Past Barry so I can be better prepared.": "我没水了。 我应该去帮助过去的巴里，这样我才能做好更好的准备。",
-    "Advertise your Letsy store": "为您的 Etsy 商店做广告",
+    "Advertise your Letsy store": "为您的 Letsy 商店做广告",
     "Canning supplies": "罐头用品",
     "Drill a deeper well": "钻一口更深的井",
     "Gas burner": "煤气灶",
