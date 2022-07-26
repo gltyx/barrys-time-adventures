@@ -145,7 +145,7 @@ var cnItems = {
     "Buy a cistern": "买一个水箱",
     "Getting a big water container should make collection easier.": "获得一个大水容器应该使收集更容易。",
     "Overcharge well": "过充井",
-    "": "",
+    "You may want to explore more before restarting.": "在重新开始之前，您可能想探索更多。",
     "": "",
     "": "",
     "": "",
